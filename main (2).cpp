@@ -1,8 +1,6 @@
- // Author & NET-ID:  Harsh Gopalan (HXG190023)
+ // Author:           Harsh Gopalan
  //
- // Course:           CS 1337. 010
- //
- // Assignment:       Homework 2 - Word Search
+ // Assignment:       Word Search Matrix
  //
  // Date:             February 22, 2021 (Started Making Changes)
  //                   February 28, 2021 (Finished Programming)
@@ -24,8 +22,7 @@
  //                    Bonus:
  //                    2) For the movie "RUR", the code includes the instance where it happens twice, as it is a palindrome
  //                    3) Included a word.length() statement when searching for each word in matrix
-                        // --BONUS POINTS for the above statements--
- // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - //
+ // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - //
 
 #include <iostream>
 #include <math.h>
